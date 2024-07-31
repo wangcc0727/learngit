@@ -1,6 +1,5 @@
 import sys
 import os
-import stat
 
 print("len", len(sys.argv))
 print("0", sys.argv[0])
